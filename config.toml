@@ -1,0 +1,16 @@
+base_url = "https://bitsof.joy"
+title = "Bits of Joy"
+description = "News to make you smile" 
+
+generate_feed = true
+feed_filename = "feed.xml"
+
+compile_sass = false
+build_search_index = false
+
+[markdown]
+highlight_code = false
+
+[extra]
+author = "Klaas-Jan Boon"
+email = "klaas-janboon@live.nl"
